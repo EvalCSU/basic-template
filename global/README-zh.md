@@ -57,15 +57,15 @@ EvalCSU 将为你提供大部分的课程设计演示，这意味着你没有必
 ├── res
 └── java
     └── net.micode.notes
-			├── data
-			├── model
-			├── tool
-			├── ui
-			├── widget
-			└── gtask
-					├── data
-					├── exception
-			 		└── remote
+		├── data
+		├── model
+		├── tool
+		├── ui
+		├── widget
+		└── gtask
+				├── data
+				├── exception
+		 		└── remote
 ```
 
 
