@@ -49,6 +49,23 @@ More importantly, EvalCSU wants you to see it as a basic version, and do your be
 1. Make sure English is your first language for project presentations. Besides, create Chinese version like `README-zh.md`
 2. Make sure there are enough .md to clarify the princinple of your code. Otherwise, there is nothing different with trash.
 3. Hope open the Discussion for technical exchange. Be stronger together.
+4. Hope build code structure more professionally. For example, you can build as follow with Java. 
+
+```
+├── AndroidManifest.xml
+├── res
+└── java
+    └── net.micode.notes
+				├── data
+				├── model
+				├── tool
+				├── ui
+				├── widget
+				└── gtask
+						├── data
+						├── exception
+				 		└── remote
+```
 
 **Attetion**
 

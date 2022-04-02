@@ -50,6 +50,24 @@ EvalCSU 将为你提供大部分的课程设计演示，这意味着你没有必
 1. 确保英语是你做项目报告的第一语言。此外，创建中文版本，如 `README-zh.md`。
 2. 确保有足够的.md来阐明你的代码的原理。否则，就和垃圾没有什么区别。
 3. 希望开放讨论，进行技术交流。让我们一起变得更强大。
+4. 希望建立更专业的代码结构。例如，你可以用Java构建如下。
+
+```
+├── AndroidManifest.xml
+├── res
+└── java
+    └── net.micode.notes
+				├── data
+				├── model
+				├── tool
+				├── ui
+				├── widget
+				└── gtask
+						├── data
+						├── exception
+				 		└── remote
+```
+
 
 **注意**
 
