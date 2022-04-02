@@ -56,15 +56,15 @@ More importantly, EvalCSU wants you to see it as a basic version, and do your be
 ├── res
 └── java
     └── net.micode.notes
-				├── data
-				├── model
-				├── tool
-				├── ui
-				├── widget
-				└── gtask
-						├── data
-						├── exception
-				 		└── remote
+	├── data
+	├── model
+	├── tool
+	├── ui
+	├── widget
+	└── gtask
+		├── data
+		├── exception
+ 		└── remote
 ```
 
 **Attetion**
