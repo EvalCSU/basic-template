@@ -46,26 +46,63 @@ More importantly, EvalCSU wants you to see it as a basic version, and do your be
 
 ## Contribution
 
-1. Make sure English is your first language for project presentations. Besides, create Chinese version like `README-zh.md`
+1. Make sure English is your first language for project presentations. Besides, create Chinese version like `README-zh.md`.
 2. Make sure there are enough .md to clarify the princinple of your code. Otherwise, there is nothing different with trash.
-3. Hope open the Discussion for technical exchange. Be stronger together.
-4. Hope build code structure more professionally. For example, you can build as follow with Java. 
+3. Make sure the professionalism of the homepage, it should have the following basic sections. As well, you could extend it.
+    ```
+    # Repo-Name
+    <!-- A simply clarify for your repository -->
 
-```
-├── AndroidManifest.xml
-├── res
-└── java
-    └── net.micode.notes
-	├── data
-	├── model
-	├── tool
-	├── ui
-	├── widget
-	└── gtask
-		├── data
-		├── exception
- 		└── remote
-```
+    ## Feature
+    <!-- Describe core feature of the program -->
+
+    ## Framwork(optinal)
+    <!-- Describe framwork of the program -->
+
+    ## Start
+
+    ### Dependence
+    <!-- Describe dependence of the program -->
+
+    ### Build
+    <!-- How to build the program -->
+
+    ### Run
+    <!-- How to run the program -->
+
+    ## Usage
+    <!-- How to use the program -->
+
+    ## Contribution
+    <!-- How to contribute to the repo -->
+
+    ## Community(optional)
+
+    ## About
+    <!-- About authors -->
+
+    ## Who using(optinal)
+
+    ## License
+    <!-- Open source license -->
+    ```
+4. Hope open the Discussion for technical exchange. Be stronger together.
+5. Hope build code structure more professionally. For example, you can build as follow with Java. 
+    ```
+    ├── AndroidManifest.xml
+    ├── res
+    └── java
+       └── net.micode.notes
+      ├── data
+      ├── model
+      ├── tool
+      ├── ui
+      ├── widget
+      └── gtask
+        ├── data
+        ├── exception
+        └── remote
+    ```
 
 **Attetion**
 
